@@ -1,0 +1,39 @@
+
+
+.paragraph
+{
+    font-family: "Anek Devanagari", sans-serif;
+}
+.header_name{
+    font-family: "Pacifico", cursive;
+}
+
+.mockup-code
+{
+    transform: scale(1.5); 
+    transform-origin: top left; 
+    
+
+}
+.hobbies
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.destination-img-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin: 0 300px;
+
+    
+}
+.images{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
